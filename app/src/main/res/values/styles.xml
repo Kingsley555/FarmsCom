@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeInsertData" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!--<style name="AppThemeInsertData.AppBarOverlay" parent="ThemeOverlay.AppCompact.Dark.ActionBar"/>
+
+    <style name="AppThemeInsertData.PopupOverlay" parent="ThemeOverlay.AppCompact.Light"/>
+-->
+
+</resources>
